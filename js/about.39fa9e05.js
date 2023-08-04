@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpractica_consolidacion_games_opinion"]=self["webpackChunkpractica_consolidacion_games_opinion"]||[]).push([[443],{782:function(n,a,i){i.r(a),i.d(a,{default:function(){return p}});var c=i(252);const o={class:"about"},s=(0,c._)("h1",null,"This is an about page",-1),t=[s];function e(n,a){return(0,c.wg)(),(0,c.iD)("div",o,t)}var r=i(744);const u={},l=(0,r.Z)(u,[["render",e]]);var p=l}}]);
+//# sourceMappingURL=about.39fa9e05.js.map
